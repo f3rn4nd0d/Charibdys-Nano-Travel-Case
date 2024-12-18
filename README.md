@@ -1,5 +1,4 @@
 # Charybdis Nano Travel Case
-ase
 
 ![main pic](pics/2.jpeg)
 

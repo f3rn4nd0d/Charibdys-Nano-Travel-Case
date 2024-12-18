@@ -70,7 +70,7 @@ Yes! But I would like you to consider a couple of things:
 
 Version A, December the 18th 2024
 
-[Click here to view the case in 3D even in augmented reality](https://collaborate.shapr3d.com/v/Hb1HOA_byMEFyQqiXjbRR)
+[Click here to view the case in 3D even in augmented reality](https://collaborate.shapr3d.com/v/M9hOezR5TNaR3RBjyHR-G)
 
 I have invested a lot of work on this case and I am really proud of the results.
 

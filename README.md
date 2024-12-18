@@ -23,7 +23,7 @@ Due to popular demand I have also created the nano version.
 
 This repository contains 2 versions of the case:
 
-- **Flat**: Flat version of the bottom part, no flange. Base should be easier to adapt and modify, even for Flange version if needed.
+- **Flat**: Flat version of the bottom part, no flange. Base should be easier to adapt and modify, even for Flange version if needed. The .step files are available on flange directory.
 - **Flange**: Version with a flange on the bottom part, which is easier to open by using your thumb in the flange. It is also more aesthetically pleasing if you print both parts in different colors. 
 
 For each version, there are 4 files: top left, top right, bottom left, bottom right. You will need to print the 4 files for the version you choose.

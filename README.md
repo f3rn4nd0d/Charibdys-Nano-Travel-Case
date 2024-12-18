@@ -1,6 +1,6 @@
 # Charybdis Nano Travel Case
 
-![main pic](pics/2.jpeg)
+![main pic](pics/6.jpg)
 
 # Introduction
 
